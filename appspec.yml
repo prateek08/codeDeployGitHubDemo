@@ -7,3 +7,4 @@ hooks:
   BeforeInstall:
     - location: \before-install.bat
       timeout: 900
+	  remove: C:\inetpub\wwwroot\index.html
