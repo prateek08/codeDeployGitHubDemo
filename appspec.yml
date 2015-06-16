@@ -6,5 +6,4 @@ files:
 hooks:
   BeforeInstall:
     - location: \before-install.bat
-	  remove: C:\inetpub\wwwroot\index.html
       timeout: 900
