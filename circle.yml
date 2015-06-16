@@ -3,4 +3,4 @@ deployment:
         branch: master
         codedeploy:
             githubdemo:
-            deployment_group: staging
+                deployment_group: staging
