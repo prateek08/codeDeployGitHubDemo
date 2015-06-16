@@ -1,0 +1,6 @@
+deployment:
+    staging:
+        branch: master
+        codedeploy:
+            githubdemo:
+            deployment_group: staging
