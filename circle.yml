@@ -4,3 +4,6 @@ deployment:
         codedeploy:
             githubdemo:
                 deployment_group: staging
+				deployment_config: CodeDeployDefault.AllAtOnce
+				region: us-east-1
+				application_root: /
